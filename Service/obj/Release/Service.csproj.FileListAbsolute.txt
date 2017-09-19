@@ -1,0 +1,14 @@
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Release\Service.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Release\Service.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Release\Service.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Release\Service.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Release\Service.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Release\Service.dll.mdb
+C:\Users\Dmitriy\Documents\App8\Service\bin\Release\Service.dll
+C:\Users\Dmitriy\Documents\App8\Service\bin\Release\Service.pdb
+C:\Users\Dmitriy\Documents\App8\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\App8\Service\obj\Release\Service.dll
+C:\Users\Dmitriy\Documents\App8\Service\obj\Release\Service.pdb
+C:\Users\Dmitriy\Documents\App8\Service\obj\Release\Service.dll.mdb
+C:\Users\Dmitriy\Documents\App8\Service\bin\Release\Service.dll.mdb

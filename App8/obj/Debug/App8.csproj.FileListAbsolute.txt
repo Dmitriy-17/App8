@@ -1,0 +1,79 @@
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\bin\Debug\App8.App8.apk
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\bin\Debug\App8.App8-Signed.apk
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\android\bin\App8.App8.apk
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\res\layout\main.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\res\values\strings.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\res\drawable\icon.png
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\R.cs.flag
+c:\users\dmitriy\documents\visual studio 2015\Projects\App8\App8\obj\Debug\uploadflags.txt
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\layout\startgame.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\App8.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\Service.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\clubs.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\diamonds.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\hearts.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\mask1.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\mask2.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\spades.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\BlackJack.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\BlackJack.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\BlackJack.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\BlackJack.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\layout\chooselanguage.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\background1.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\res\drawable\backgroundmenu.jpg
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\BlackJack.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\Service.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\mscorlib.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.Core.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.Xml.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\BlackJack.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\Service.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\App8\obj\Debug\BlackJack.dll.mdb
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\BlackJack.dll
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\BlackJack.pdb
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\App8.App8.apk
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\App8.App8-Signed.apk
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\Service.dll
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\App8.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\BlackJack.dll
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\BlackJack.pdb
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\android\bin\App8.App8.apk
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\layout\startgame.xml
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\layout\chooselanguage.xml
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\layout\main.xml
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\values\strings.xml
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\icon.png
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\clubs.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\diamonds.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\hearts.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\mask1.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\mask2.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\spades.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\background1.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\res\drawable\backgroundmenu.jpg
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\R.cs.flag
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\uploadflags.txt
+C:\Users\Dmitriy\Documents\App8\App8\obj\Debug\BlackJack.dll.mdb
+C:\Users\Dmitriy\Documents\App8\App8\bin\Debug\BlackJack.dll.mdb

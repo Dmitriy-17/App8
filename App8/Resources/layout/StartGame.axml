@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1">
+    <NumberPicker
+        android:layout_width="11.5dp"
+        android:layout_height="21.5dp"
+        android:id="@+id/numberPicker1"
+        android:orientation="vertical"
+        android:visibility="invisible" />
+    <EditText
+        android:inputType="numberSigned"
+        android:layout_width="11.5dp"
+        android:layout_height="21.5dp"
+        android:visibility="invisible"
+        android:id="@+id/editText1" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonSetBet"
+        android:layout_marginLeft="5dip"
+        android:layout_marginTop="170dip" />
+    <Button
+        android:text="Get Card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonGetCard"
+        android:layout_marginLeft="5dip"
+        android:layout_marginTop="215dip" />
+    <Button
+        android:text="Continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonContinue"
+        android:layout_marginLeft="5dip"
+        android:layout_marginTop="170dip" />
+    <Button
+        android:text="Stand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonShowCard"
+        android:layout_marginTop="170dip"
+        android:layout_marginLeft="5dip" />
+    <Button
+        android:text="Double bet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonDoubleBet"
+        android:layout_marginTop="260dip"
+        android:layout_marginLeft="5dip" />
+    <TextView
+        android:layout_width="115.3dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerCoins"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="16sp"
+        android:layout_marginTop="355dip"
+        android:layout_marginLeft="135dip" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/info"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="25sp"
+        android:layout_marginTop="230dip"
+        android:layout_marginLeft="140dip" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bet"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="16sp"
+        android:layout_marginTop="448dip"
+        android:layout_marginLeft="5dip" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/balance"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="16sp"
+        android:layout_marginTop="430dip"
+        android:layout_marginLeft="5dip" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dillerCoins"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="16sp"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="135dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/cardplayer1"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/cardplayer2"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="125dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/cardplayer3"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="150dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/cardplayer4"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="175dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/cardplayer5"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="200dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:id="@+id/cardplayer6"
+        android:layout_marginTop="385dp"
+        android:layout_marginLeft="225dp"
+        android:textSize="12sp"
+        android:padding="1dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller1"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="100dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller2"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="125dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller3"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="150dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller4"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="175dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller5"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="200dp" />
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="100.0dp"
+        android:id="@+id/carddiller6"
+        android:textSize="12sp"
+        android:padding="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="225dp" />
+</RelativeLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundmenu">
+    <RadioGroup
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup1">
+        <TextView
+            android:id="@+id/textViewLang"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:typeface="serif"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:alpha="0.8"
+            android:background="@android:color/darker_gray"
+            android:layout_marginTop="5dp" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="English"
+            android:textSize="25sp"
+            android:id="@+id/radioButton1"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:typeface="serif" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Russian"
+            android:textSize="25sp"
+            android:id="@+id/radioButton2"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:typeface="serif" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ukraine"
+            android:textSize="25sp"
+            android:id="@+id/radioButton3"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:typeface="serif" />
+    </RadioGroup>
+    <Button
+        android:text="Ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonChaked"
+        android:alpha="0.8"
+        android:textColor="@android:color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+    
+</LinearLayout>

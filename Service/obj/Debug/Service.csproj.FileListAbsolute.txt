@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Debug\Service.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Debug\Service.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\obj\Debug\Service.dll.mdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\App8\Service\bin\Debug\Service.dll.mdb
+C:\Users\Dmitriy\Documents\App8\Service\bin\Debug\Service.dll
+C:\Users\Dmitriy\Documents\App8\Service\bin\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\App8\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\App8\Service\obj\Debug\Service.dll
+C:\Users\Dmitriy\Documents\App8\Service\obj\Debug\Service.pdb
+C:\Users\Dmitriy\Documents\App8\Service\obj\Debug\Service.dll.mdb
+C:\Users\Dmitriy\Documents\App8\Service\bin\Debug\Service.dll.mdb

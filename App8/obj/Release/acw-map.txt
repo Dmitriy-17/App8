@@ -1,0 +1,12 @@
+App8.ChooseLanguage, BlackJack;md5eb3ffda2a1969875a2ee77321f168e9b.ChooseLanguage
+App8.ChooseLanguage, BlackJack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb3ffda2a1969875a2ee77321f168e9b.ChooseLanguage
+App8.ChooseLanguage;md5eb3ffda2a1969875a2ee77321f168e9b.ChooseLanguage
+app8.ChooseLanguage;md5eb3ffda2a1969875a2ee77321f168e9b.ChooseLanguage
+App8.MainActivity, BlackJack;md5eb3ffda2a1969875a2ee77321f168e9b.MainActivity
+App8.MainActivity, BlackJack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb3ffda2a1969875a2ee77321f168e9b.MainActivity
+App8.MainActivity;md5eb3ffda2a1969875a2ee77321f168e9b.MainActivity
+app8.MainActivity;md5eb3ffda2a1969875a2ee77321f168e9b.MainActivity
+App8.StartGame, BlackJack;md5eb3ffda2a1969875a2ee77321f168e9b.StartGame
+App8.StartGame, BlackJack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb3ffda2a1969875a2ee77321f168e9b.StartGame
+App8.StartGame;md5eb3ffda2a1969875a2ee77321f168e9b.StartGame
+app8.StartGame;md5eb3ffda2a1969875a2ee77321f168e9b.StartGame

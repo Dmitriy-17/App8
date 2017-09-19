@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">App8</string>
+
+  <string name="EnChooseLanguage">Сhoose language</string>
+  <string name="EnOk">Ok</string>
+  <string name="EnCancel">Cancel</string>
+  <string name="EnStartGame">Start Game</string>
+  <string name="EnSetBet">Set Bet</string>
+  <string name="EnStand">Stand</string>
+  <string name="EnGetCard">Get Card</string>
+  <string name="EnDoubleBet">Double Bet</string>
+  <string name="EnContinue">Continue</string>
+  <string name="EnBalance">Bal: </string>
+  <string name="EnBet">Bet: </string>
+  <string name="EntextViewLang">Choose language:</string>
+  <string name="EnIncorrectBet">Incorrect Bet</string>
+  
+
+  <string name="RuChooseLanguage">Выбрать язык</string>
+  <string name="RuOk">Ok</string>
+  <string name="RuCancel">Отмена</string>
+  <string name="RuStartGame">Старт</string>
+  <string name="RuSetBet">Сделать ставку</string>
+  <string name="RuStand">Открыть Карты</string>
+  <string name="RuGetCard">Взять Карту</string>
+  <string name="RuDoubleBet">Удвоить</string>
+  <string name="RuContinue">Продолжить</string>
+  <string name="RuBalance">Бал: </string>
+  <string name="RuBet">Ставка: </string>
+  <string name="RutextViewLang">Выберите язык:</string>
+  <string name="RuIncorrectBet">Неправильная Ставка</string>
+
+
+
+  <string name="UkChooseLanguage">Обрати мову</string>
+  <string name="UkOk">Ok</string>
+  <string name="UkCancel">Відміна</string>
+  <string name="UkStartGame">Старт</string>
+  <string name="UkSetBet">Зробити ставку</string>
+  <string name="UkStand">Відкрити Карти</string>
+  <string name="UkGetCard">Взяти Карту</string>
+  <string name="UkDoubleBet">Подвоїти</string>
+  <string name="UkContinue">Продовжити</string>
+  <string name="UkBalance">Бал: </string>
+  <string name="UkBet">Ставка: </string>
+  <string name="UktextViewLang">Оберіть мову:</string>
+  <string name="UkIncorrectBet">Невірна Ставка</string>
+
+
+
+
+</resources>
